@@ -1,11 +1,5 @@
-<p align="center">
-  <img src="https://i.postimg.cc/gJKLSpRj/banner.png" />
-</p>
 
 Python module/script allowing a user to control any media player using hand gestures and face tracking.
-
-This project is being made and maintained by the **Embedded Systems and Robotics Club, NIT Kurukshetra** (EmR) for its **Image processing workshop**. However, members outside the club are welcome to contribute (refer to [contribution guidelines](#contributions))
-
 ## Features
 
 - [x] Hand gesture recognition and processing to allow user to play/pause, seek, change volume.
@@ -108,11 +102,3 @@ The project working can be summarized into two parts:
         elif not eyes and IS_VIDEO_PLAYING:
            pause_video()
      ```
-
-## Demonstrations
-
-Coming soon...
-
-## Contributions
-
-Members of EmR are requested to refer to the [M_CONTRIBUTING.md](./M_CONTRIBUTING.md) file before raising PRs or issues. Individuals outside of EmR must refer to the [CONTRIBUTING.md](./CONTRIBUTING.md) file before raising PRs or issues.
